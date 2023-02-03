@@ -1,5 +1,5 @@
 # Portfolio
-## ABOUT ME
+## About me
 
 I'm Martyna and I'm an engineer based in Sydney, NSW, Australia, but originally I come from Poland.
 
@@ -17,8 +17,10 @@ Please download my resume here: Martyna Malecka resume.pdf
 
 - Python
 - Selenium Webdriver
-- Github
+- Git/Github
 - Trello
 - Jenkins
 - Writing test scenarios and test cases
 - 
+
+## 
