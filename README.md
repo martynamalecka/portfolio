@@ -19,7 +19,6 @@ Please download my resume here: Martyna Malecka resume.pdf
 - Selenium Webdriver
 - Git/Github
 - Trello
-- Jenkins
 - Writing test scenarios and test cases
 - 
 
