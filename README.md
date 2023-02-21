@@ -20,6 +20,7 @@ Please download my resume here: Martyna Malecka resume.pdf
 - Git/Github
 - Trello
 - Writing test scenarios and test cases
-- 
+- API testing
+- Postman
 
 ## 
