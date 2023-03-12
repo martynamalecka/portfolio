@@ -11,7 +11,7 @@ I'd be happy to gain some hands-on experience in a professional work environment
 
 ## CV
 
-Please download my resume here: [Martyna Malecka Resume.pdf](https://drive.google.com/file/d/1PFXUEFfEsxPIDdNxsRCjjYGDiOTMtLeL/view?usp=sharing)
+Please download my resume here: [Martyna Malecka Resume.pdf](https://drive.google.com/file/d/1rxJvC8KyosYaxkV8xXWKhELjdWfYPN-q/view?usp=sharing)
 
 ## Skills
 
